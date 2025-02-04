@@ -1,5 +1,5 @@
 # Gestión de Biblioteca con servlets
-Este proyecto los conceptos de
+Este proyecto trata los conceptos de
   - JPA
   - Servlets
   - Hibernate
